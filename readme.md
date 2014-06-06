@@ -4,8 +4,8 @@ simple-paginator
 Simple javascript paginator for search lists or blog use
 
 **Dependecies:**
-> jQuery
-> Twitter Bootstrap 3
+- jQuery
+- Twitter Bootstrap 3
 
 
 Before including of simple-paginator make sure you've included files from dependent libraries:
