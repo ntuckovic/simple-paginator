@@ -1,0 +1,15 @@
+.paginator{
+    display: inline-block;
+    margin-top:10px;
+    margin-bottom: 10px; 
+}
+
+.paginator .btn-wrap{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.paginator .btn-wrap > .btn{
+    margin-left: 1px;
+    margin-right: 1px;
+}
