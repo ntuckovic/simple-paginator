@@ -19,5 +19,5 @@ Before including of simple-paginator make sure you've included files from depend
 <link rel="stylesheet" type="text/css" href="css/simple-paginator.css">
 ```
 
-Working example in jsfiddle:
+Working example in jsfiddle:<br>
 http://jsfiddle.net/ntuckovic/jt89n/2/
